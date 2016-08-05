@@ -7,4 +7,4 @@
  
  ```$ bash script.sh```
   
-* Open index.html on browser
+* Open index.html file on browser.
