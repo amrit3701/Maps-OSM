@@ -3,7 +3,7 @@
 ## Setup
   * Run script
 
- ```$chmod +x script.sh```
+ ```$ chmod +x script.sh```
  
  ```$ bash script.sh```
   
